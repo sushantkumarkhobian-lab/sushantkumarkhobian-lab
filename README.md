@@ -24,7 +24,7 @@ I enjoy designing and building production-oriented embedded systems that bridge 
 
 - 📦 Embedded Engineering Lab
 - ☁️ AWS Engineering Lab
-- 🤖 Universal Gesture Interaction Framework (UGIF)
+- 🤖 UGIF
 - 🚁 Autonomous Drone Systems
 - 📡 Firmware & Edge Computing
 
