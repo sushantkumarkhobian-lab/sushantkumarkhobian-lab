@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Sushant Kumar 👋
+# Hi there, I'm Sushant Kumar Khobian 👋
 
 ### Embedded Systems Engineer • IoT Developer • AWS Cloud Enthusiast
 
