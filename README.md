@@ -4,7 +4,7 @@
 
 ### Embedded Systems Engineer • IoT Developer • AWS Cloud Enthusiast
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=0E75B6&center=true&vCenter=true&width=850&lines=Embedded+Systems;Firmware+Development;ESP32+%7C+STM32;IoT+%7C+AWS+Cloud;Always+Building+Something+New)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=0E75B6&center=true&vCenter=true&width=550&lines=Embedded+Systems;Firmware+Development;ESP32+%7C+STM32;IoT+%7C+AWS+Cloud;Always+Building+Something+New)](https://git.io/typing-svg)
 
 🎓 **Final Year B.E. Computer Engineering (IoT, Blockchain & Cyber Security)**
 
