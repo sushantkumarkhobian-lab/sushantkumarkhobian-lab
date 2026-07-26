@@ -132,7 +132,7 @@ I enjoy designing and building production-oriented embedded systems that bridge 
 
 # 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sushant%20Kumar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sushant-kumar-khobian/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sushant%20Kumar%20Khobian-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sushant-kumar-khobian/)
 
 [![Email](https://img.shields.io/badge/Email-sushantkumarkhobian123%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sushantkumarkhobian123@gmail.com)
 
