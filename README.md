@@ -102,11 +102,9 @@ I enjoy designing and building production-oriented embedded systems that bridge 
 
 # 📈 GitHub Statistics
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=sushantkumarkhobian-lab&theme=tokyonight"/>
-
-</div>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sushantkumarkhobian-lab&show_icons=true&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
