@@ -100,14 +100,6 @@ I enjoy designing and building production-oriented embedded systems that bridge 
 
 ---
 
-# 📈 GitHub Statistics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sushantkumarkhobian-lab&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
 # 📊 Contribution Graph
 
 [![Sushant's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sushantkumarkhobian-lab&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
