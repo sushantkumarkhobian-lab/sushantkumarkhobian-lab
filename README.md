@@ -102,7 +102,7 @@ I enjoy designing and building production-oriented embedded systems that bridge 
 
 # 📊 Contribution Graph
 
-[![Sushant's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sushantkumarkhobian-lab&theme=tokyo-night)](https://git.io/streak-stats)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sushantkumarkhobian-lab&theme=tokyo-night&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
